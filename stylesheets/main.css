@@ -12,3 +12,8 @@ a {
   text-decoration: none;
   margin-left: 10px;
 }
+
+blockquote {
+  padding: 2px 20px;
+  background: lightgray;
+}
